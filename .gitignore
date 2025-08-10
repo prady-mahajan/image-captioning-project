@@ -1,0 +1,17 @@
+venv/
+data/
+features/
+features_spatial/
+.ipynb_checkpoints/
+notebooks/nltk_data/
+
+.DS_Store
+Thumbs.db
+__pycache__/
+
+*.pyc
+*.pyo
+*.pyd
+*.log
+*.pt
+*.pth
