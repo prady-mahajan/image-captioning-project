@@ -2,7 +2,7 @@
 
 This repository contains an **Image Captioning** pipeline implemented in Python using PyTorch and Transformers.  
 It supports two main approaches:  
-- **Custom CNN–LSTM model** (with attention mechanism)  
+- **Custom CNN–LSTM model** (with attention mechanism), trained on **Flickr8k** Dataset  
 - **BLIP Visual Language Model (VLM)** (Hugging Face) for performance comparison  
 
 
